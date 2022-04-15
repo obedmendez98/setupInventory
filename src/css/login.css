@@ -1,0 +1,33 @@
+.content{
+  background: rgb(245, 245, 245);
+  padding:2%;
+  width: 100%;
+  height: 100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cd{
+  border-radius: 20px;
+}
+
+.txt{
+  color: white;
+  background: #3f51b5;
+  font-size: bold;
+}
+
+div.loggin-actions {
+  text-align: center;
+  font-size: 0.8rem;
+  padding: 0;
+}
+
+a.small-link {
+  text-decoration: none;
+}
+
+a.small-link:hover {
+  text-decoration: none;
+}

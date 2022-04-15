@@ -1,0 +1,12 @@
+.actionsHeader, .actionLinks  {
+  display: flex;
+  height: 52px;
+}
+.actionsHeader span.material-icons,
+.actionLinks span.material-icons {
+  margin: 1rem 0.4rem;
+}
+
+.MuiDataGrid-root .MuiDataGrid-columnSeparator {
+  display: none !important;
+}
